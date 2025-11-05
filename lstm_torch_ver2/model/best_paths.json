@@ -1,0 +1,16 @@
+{
+  "model_path": "d:\\学习资料\\25 04 神经网络模型对上证指数预测项目\\lstm_torch_ver2\\model\\stock_hs256_nl1_do02_lr0.001_bs64.pkl",
+  "data_params_path": "d:\\学习资料\\25 04 神经网络模型对上证指数预测项目\\lstm_torch_ver2\\model\\data_params_hs256_nl1_do02_lr0.001_bs64.pth",
+  "best_loss": 1.829106218720929e-05,
+  "best_params": {
+    "num_layers": 1,
+    "hidden_size": [
+      256
+    ],
+    "dropout": 0.2,
+    "lr": 0.001,
+    "batch_size": 64
+  },
+  "final_epoch": 93,
+  "timestamp": "2025-11-03 03:50:07"
+}
